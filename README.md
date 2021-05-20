@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sarthak Dabhi (@seth-pop), a senior software engineer.
+- 🌱 I’m in a website-content team.
+- 📫 You can reach me via Slack or e-mail (seth.dabhi@patientpop.com).
